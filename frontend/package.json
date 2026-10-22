@@ -41,7 +41,7 @@
     "react-error-boundary": "^5.0.0",
     "react-icons": "^5.5.0",
     "sonner": "^2.0.1",
-    "swiper": "^11.2.4",
+    "swiper": "^12.1.2",
     "tailwind-merge": "^3.0.1",
     "tailwind-scrollbar-hide": "^2.0.0",
     "tailwindcss-animate": "^1.0.7"
@@ -49,7 +49,7 @@
   "devDependencies": {
     "@simplewebauthn/types": "^12.0.0",
     "@stylistic/eslint-plugin-ts": "^4.2.0",
-    "@tailwindcss/vite": "^4.0.17",
+    "@tailwindcss/vite": "^4.3.3",
     "@tanstack/react-query-devtools": "^5.69.0",
     "@tanstack/router-vite-plugin": "^1.114.27",
     "@types/chromecast-caf-sender": "^1.0.11",
@@ -60,7 +60,7 @@
     "@types/youtube": "^0.1.0",
     "@typescript-eslint/eslint-plugin": "^8.24.1",
     "@typescript-eslint/parser": "^8.24.1",
-    "@vitejs/plugin-react": "^4.3.4",
+    "@vitejs/plugin-react": "^4.7.0",
     "autoprefixer": "^10.4.20",
     "eslint": "^9.20.1",
     "eslint-config-next": "^15.1.7",
@@ -72,9 +72,9 @@
     "eslint-plugin-react": "^7.37.4",
     "eslint-plugin-react-hooks": "^5.1.0",
     "eslint-plugin-react-refresh": "^0.4.19",
-    "postcss": "8.4.49",
-    "tailwindcss": "3.4.17",
+    "postcss": "8.5.31",
+    "tailwindcss": "4.3.3",
     "typescript": "^5.7.3",
-    "vite": "^6.1.1"
+    "vite": "^8.3.5"
   }
 }
